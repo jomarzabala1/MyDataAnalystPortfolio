@@ -2,6 +2,7 @@
 Joe Marie Zabala
 Contact Number: 09564181620
 Email Address: jomarzabala1@gmail.com
+Linkedin: https://www.linkedin.com/in/joe-marie-zabala-380b4b25b/
 
 Analytical and results-driven professional with experience in BPO operations and a passion for data analysis. Skilled in data modeling, visualization, and reporting. Strong problem-solving skills with the ability to identify trends and patterns in large data sets.
 
