@@ -8,5 +8,7 @@ Analytical and results-driven professional with experience in BPO operations and
 
 Current working as a full-time Analyst in Accenture Inc Philippines. I enrolled in Mapura Malayan Digital College for A.Y 2024-2025 term 1. I take B.S IT major in Data Analytics.
 
+Project 1. On this Analysis, we analyze the data and choose which state is great for business expansion. Please watch the video for more information.
+
 https://github.com/user-attachments/assets/57946f2c-38ac-465e-b40b-bd07912f4e34
 
