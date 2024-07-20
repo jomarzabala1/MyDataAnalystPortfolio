@@ -1,7 +1,7 @@
 # My Data Analytic's Portfolio
 <header>Joe Marie Zabala</header>
 <p>Contact Number: 09564181620</p>
-<p>>Email Address: jomarzabala1@gmail.com</p>
+<p>Email Address: jomarzabala1@gmail.com</p>
 <p>Linkedin: https://www.linkedin.com/in/joe-marie-zabala-380b4b25b/</p>
 
 Analytical and results-driven professional with experience in BPO operations and a passion for data analysis. Skilled in data modeling, visualization, and reporting. Strong problem-solving skills with the ability to identify trends and patterns in large data sets.
