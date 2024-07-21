@@ -10,6 +10,8 @@ Current working as a full-time Analyst in Accenture Inc Philippines. I enrolled 
 
 Project 1. On this Analysis, we analyze the data and choose which state is great for business expansion. 
 
+Tools used; Power BI, Phyton and Excel
+
 ![image](https://github.com/user-attachments/assets/25f7256f-7e5b-41d7-b470-48194dd42b77)
 
 ![image](https://github.com/user-attachments/assets/3bb6bb5b-6126-440d-bd1a-d135e1f32fb4)
